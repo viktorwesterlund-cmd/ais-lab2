@@ -42,5 +42,5 @@ Coil 0 = DosingValve, Coil 1 = Alarm
 | 5    | Internet             | (saknas)         |
 
 ## Bilder
-- ![baseline HMI](../screenshots/hmi-baseline.png)
-- ![baseline alerts](../screenshots/alerts-baseline.png)
+- ![baseline HMI](<img width="837" height="718" alt="ScreenShot_2026-05-25_22_39_52" src="https://github.com/user-attachments/assets/65d5475b-a826-4980-8253-949911fe5efe" />)
+- ![baseline alerts](<img width="2515" height="1285" alt="ScreenShot_2026-05-26_16_45_52" src="https://github.com/user-attachments/assets/d3d7a959-7dc5-4a2c-8515-dfae3af13007" />)
