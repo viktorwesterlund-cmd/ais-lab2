@@ -24,11 +24,12 @@ och setpoint-värden utanför säkert intervall.
 | 1000101 | FC6 (min) | Setpoint > 8000 (unsafe) | Critical |
 
 ## Bevis
-- `del3/fast.log` — alla attacker fångade
-- `del3/alert-anatomy.json` — exempel-eve för FC6
-- `screenshots/fast-log-attacks.png`
-- `del3/ot.rules` — min utökade regeluppsättning
-- `del3/verify-output.txt` — output från `./verify-detection.sh`
+- `del3/fast.log` (<img width="679" height="400" alt="screenshotsfast-log-attacks png" src="https://github.com/user-attachments/assets/b58a9e0a-08e6-4679-a45b-adbe77eff6ce" />) — alla attacker fångade
+- `del3/alert-anatomy.json` () — exempel-eve för FC6
+- `screenshots/fast-log-attacks.png` ()
+- `del3/ot.rules` (<img width="705" height="1182" alt="del3ot rules" src="https://github.com/user-attachments/assets/e9a5fdc0-6933-4a0c-8147-579a86caede0" />
+) — min utökade regeluppsättning
+- `del3/verify-output.txt` () — output från `./verify-detection.sh`
 
 ## Tradeoffs och false positives
 - Vi alarmerar på *alla* writes — fungerar här eftersom det inte
