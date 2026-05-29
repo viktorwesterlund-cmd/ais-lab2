@@ -1,0 +1,34 @@
+05/28/2026-16:33:20.907397  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:55328 -> 172.31.50.10:502
+05/28/2026-16:33:20.955926  [**] [1:2000006:1] OT-WRITE: Modbus Write Single Register (FC6) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 172.31.50.99:55328 -> 172.31.50.10:502
+05/28/2026-16:35:30.670767  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:45046 -> 172.31.50.10:502
+05/28/2026-16:35:30.714140  [**] [1:2000006:1] OT-WRITE: Modbus Write Single Register (FC6) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 172.31.50.99:45046 -> 172.31.50.10:502
+05/28/2026-16:35:32.041964  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:45052 -> 172.31.50.10:502
+05/28/2026-16:35:32.043051  [**] [1:2000005:1] OT-WRITE: Modbus Force Single Coil (FC5) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 172.31.50.99:45052 -> 172.31.50.10:502
+05/28/2026-16:35:33.549665  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:33984 -> 172.31.50.10:502
+05/28/2026-16:35:33.550700  [**] [1:2000016:1] OT-WRITE-CRITICAL: Modbus Write Multiple Registers (FC16) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 172.31.50.99:33984 -> 172.31.50.10:502
+05/28/2026-21:08:01.358933  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:44160 -> 172.31.50.10:502
+05/28/2026-21:08:01.366582  [**] [1:1000100:1] OT-DIAG: Modbus Diagnostics (FC8) — potential DoS [**] [Classification: Attempted Denial of Service] [Priority: 1] {TCP} 172.31.50.99:44160 -> 172.31.50.10:502
+05/28/2026-21:08:30.986179  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:47376 -> 172.31.50.10:502
+05/28/2026-21:08:30.986899  [**] [1:1000100:1] OT-DIAG: Modbus Diagnostics (FC8) — potential DoS [**] [Classification: Attempted Denial of Service] [Priority: 1] {TCP} 172.31.50.99:47376 -> 172.31.50.10:502
+05/28/2026-21:08:35.902159  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:55936 -> 172.31.50.10:502
+05/28/2026-21:08:35.946270  [**] [1:2000006:1] OT-WRITE: Modbus Write Single Register (FC6) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 172.31.50.99:55936 -> 172.31.50.10:502
+05/28/2026-21:37:50.039122  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:42702 -> 172.31.50.10:502
+05/28/2026-21:37:50.080916  [**] [1:2000006:1] OT-WRITE: Modbus Write Single Register (FC6) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 172.31.50.99:42702 -> 172.31.50.10:502
+05/28/2026-21:55:58.218322  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:56935 -> 172.31.50.1:502
+05/28/2026-21:55:58.218159  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:56935 -> 172.31.50.20:502
+05/28/2026-21:55:58.218008  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:56935 -> 172.31.50.10:502
+05/28/2026-21:55:58.218216  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:56935 -> 172.31.50.30:502
+05/28/2026-21:59:26.345964  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:41681 -> 172.31.50.1:502
+05/28/2026-21:59:26.345822  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:41681 -> 172.31.50.20:502
+05/28/2026-21:59:26.345863  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:41681 -> 172.31.50.30:502
+05/28/2026-21:59:26.345750  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:41681 -> 172.31.50.10:502
+05/28/2026-22:00:43.280943  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:36740 -> 172.31.50.10:502
+05/28/2026-22:00:43.282118  [**] [1:2000016:1] OT-WRITE-CRITICAL: Modbus Write Multiple Registers (FC16) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 172.31.50.99:36740 -> 172.31.50.10:502
+05/28/2026-22:01:53.680725  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:45300 -> 172.31.50.10:502
+05/28/2026-22:01:53.722904  [**] [1:2000006:1] OT-WRITE: Modbus Write Single Register (FC6) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 172.31.50.99:45300 -> 172.31.50.10:502
+05/28/2026-22:10:49.944304  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:44966 -> 172.31.50.10:502
+05/28/2026-22:12:40.105289  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:47354 -> 172.31.50.10:502
+05/28/2026-22:12:40.147216  [**] [1:2000006:1] OT-WRITE: Modbus Write Single Register (FC6) [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 172.31.50.99:47354 -> 172.31.50.10:502
+05/28/2026-22:14:46.544371  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.99:35977 -> 172.31.50.10:502
+05/29/2026-21:10:26.345453  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.20:46678 -> 172.31.50.10:502
+05/29/2026-21:11:30.047044  [**] [1:2001000:1] OT-SESSION: New Modbus TCP session [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.31.50.20:40188 -> 172.31.50.10:502
